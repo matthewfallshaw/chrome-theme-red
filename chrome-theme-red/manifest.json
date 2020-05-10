@@ -1,0 +1,41 @@
+{
+   "description": "All credit goes to https://chrome.google.com/webstore/detail/crimson-night/cjkplgpgpjobdcbfniompdbkiejfkckd",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWSN0i8gijNQBP/YbVgH2kqjTEHj9vZ/hpeszYAOGYigWUv0NSG0DhoVpYlg3Csk7VY8tjuO9I69BhvOEq9u8Y1BuVVjSNMZFxZTvJhr4d9EjEiJFfKmNzcvEBfwRP/WcSYDzDH70rDbt7ZSVXvEFuTI5N9/0VfN2Bchn4JashawIDAQAB",
+   "name": "Crimson Night Alt",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 0, 0, 0 ],
+         "frame_inactive": [ 0, 0, 0 ],
+         "frame_incognito": [ 0, 0, 0 ],
+         "frame_incognito_inactive": [ 0, 0, 0 ],
+         "ntp_background": [ 114, 0, 0 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 92, 0, 0 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "",
+         "ntp_background_repeat": "repeat-x"
+      },
+      "tints": {
+         "background_tab": [ -1, 0.5, 0.75 ],
+         "buttons": [ -1, -1, -1 ],
+         "frame": [ -1, -1, -1 ],
+         "frame_inactive": [ -1, -1, 0.75 ],
+         "frame_incognito": [ -1, 0.2, 0.35 ],
+         "frame_incognito_inactive": [ -1, 0.3, 0.6 ]
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.3",
+   "manifest_version": 2
+}
